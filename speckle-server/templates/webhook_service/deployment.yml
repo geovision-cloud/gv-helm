@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: main
-        image: speckle/speckle-webhook-service:{{ .Values.docker_image_tag }}
+        image: luminocityhub/geovision-webhook-service:{{ .Values.docker_image_tag }}
         imagePullPolicy: {{ .Values.imagePullPolicy }}
 
         ports:
