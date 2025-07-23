@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: main
-        image: "speckle/speckle-preview-service:2.24.0"
+        image: "speckle/speckle-preview-service:2.25.8-alpha.249"
         imagePullPolicy: {{ .Values.imagePullPolicy }}
 
         ports:
