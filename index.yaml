@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   speckle-server:
   - apiVersion: v2
-    appVersion: 2.24.0
-    created: "2025-06-29T18:06:18.076512+03:30"
+    appVersion: 1.94.0
+    created: "2025-07-23T09:30:34.66006362Z"
     description: Speckle Server
-    digest: 99426f88eaf043443d4dff93e63c04ac03eef7b12d23432ec88ab02c280203a3
+    digest: 0d6f82dc73413c3325b4295e689e20479478d09ca3d21c132b9301c9d438c4b7
     home: https://speckle.systems/
     icon: https://app.speckle.systems/images/logo.png
     maintainers:
@@ -16,13 +16,13 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.2.1.tgz
-    version: 0.2.1
+    - speckle-server-1.94.0.tgz
+    version: 1.94.0
   - apiVersion: v2
-    appVersion: 2.24.0
-    created: "2025-06-29T18:06:18.074283+03:30"
+    appVersion: 1.93.0
+    created: "2025-07-23T09:30:34.652908361Z"
     description: Speckle Server
-    digest: 64c596a94f4f490f4f7865fe32d5f550ee61584283f8ed42e80405604aa401fd
+    digest: 5c06b73d3c532a8947d668b2130df1164302703cd59f66cb65ed3bf0e2421bec
     home: https://speckle.systems/
     icon: https://app.speckle.systems/images/logo.png
     maintainers:
@@ -33,15 +33,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.2.0.tgz
-    version: 0.2.0
+    - speckle-server-1.93.0.tgz
+    version: 1.93.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.053504+03:30"
+    appVersion: 1.92.0
+    created: "2025-07-23T09:30:34.645375499Z"
     description: Speckle Server
-    digest: 59055f9c3d28d31dfd7647ec2cdbc7c8008ee1e541af463d985cd703f68f098a
+    digest: 8fb98fbae894f62dd6f9c076c647710af6ef97b85773becf0376a8c86d32314d
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -50,15 +50,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.16.tgz
-    version: 0.1.16
+    - speckle-server-1.92.0.tgz
+    version: 1.92.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.051231+03:30"
+    appVersion: 1.90.0
+    created: "2025-07-23T09:30:34.640945725Z"
     description: Speckle Server
-    digest: fc1d825fe4355a4e640320675d2f7bf999a466fc2b0113154a07ea7fc5290acb
+    digest: 776e8876124ac4568ed8ff6da41572b077419cf2cd405540b4024fd10d87886d
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -67,15 +67,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.15.tgz
-    version: 0.1.15
+    - speckle-server-1.90.0.tgz
+    version: 1.90.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.049016+03:30"
+    appVersion: 1.89.0
+    created: "2025-07-23T09:30:34.63673789Z"
     description: Speckle Server
-    digest: f63f95d49015b41e756566cdf3acf403ad38b37bd2223a6c882e8fde504d63b3
+    digest: 2057824787af4055c2cda15f9bcebff9f470e128e2237571a4e647e4a9b2872a
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -84,15 +84,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.14.tgz
-    version: 0.1.14
+    - speckle-server-1.89.0.tgz
+    version: 1.89.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.04628+03:30"
+    appVersion: 1.88.0
+    created: "2025-07-23T09:30:34.631917811Z"
     description: Speckle Server
-    digest: a2bce1226458cd33f93f97b84e6e5acfd55fa99aed38392791b9a441a4a05f74
+    digest: 25a84c57df8e53e15ef69595299574136c73703ca6856205c2448157358d3423
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -101,15 +101,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.13.tgz
-    version: 0.1.13
+    - speckle-server-1.88.0.tgz
+    version: 1.88.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.044024+03:30"
+    appVersion: 1.87.0
+    created: "2025-07-23T09:30:34.627546575Z"
     description: Speckle Server
-    digest: d8c1cc04d70e7444c17d4daf7c556a7113fc645f964d3d7ce633fbd33d8bfc2b
+    digest: 39d84b86235d7ac06034191b0ead2fa5f83cf0f4a51800bfc0e7b6d36ad9a6cb
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -118,15 +118,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.12.tgz
-    version: 0.1.12
+    - speckle-server-1.87.0.tgz
+    version: 1.87.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.040887+03:30"
+    appVersion: 1.86.0
+    created: "2025-07-23T09:30:34.622812749Z"
     description: Speckle Server
-    digest: 8602337e2e339fd73ccd0f6aba973e47598b6beab131709a55db7bd8fd1aa2b6
+    digest: b264dbac35311842158a12e128b1fe96e2446b5a28cc0dfda79c7b12278fc9f0
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -135,15 +135,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.11.tgz
-    version: 0.1.11
+    - speckle-server-1.86.0.tgz
+    version: 1.86.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.038471+03:30"
+    appVersion: 1.85.0
+    created: "2025-07-23T09:30:34.617234199Z"
     description: Speckle Server
-    digest: f026ffdd1511c2ff5b5c3f1d8afa3d2a08bc78118d0d3290e390bf689d19483a
+    digest: fc7f002e1f103df546accdc5e31964c19d947d23a3c13a3730ab9c51a6715f2b
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -152,15 +152,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.10.tgz
-    version: 0.1.10
+    - speckle-server-1.85.0.tgz
+    version: 1.85.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.071604+03:30"
+    appVersion: 1.84.0
+    created: "2025-07-23T09:30:34.612614293Z"
     description: Speckle Server
-    digest: b0355f0b81f5257e51fcdfcc5b39407586791bf3c715cfdb182109f9f7b8d0a3
+    digest: 8d8b43416862408cd5264d441906d5d79e723812bc716b7a7c2c1a6a17b59910
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -169,15 +169,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.9.tgz
-    version: 0.1.9
+    - speckle-server-1.84.0.tgz
+    version: 1.84.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.069663+03:30"
+    appVersion: 1.82.0
+    created: "2025-07-23T09:30:34.604693819Z"
     description: Speckle Server
-    digest: 4227d99a82e873df71693e6eeddc71e75ba207b802c4cf2100d7fcde0277d0dc
+    digest: bdb224f24eb658c61a23a47b012652c50bc1ec594e7f210933a601849c23e898
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -186,15 +186,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.8.tgz
-    version: 0.1.8
+    - speckle-server-1.82.0.tgz
+    version: 1.82.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.067688+03:30"
+    appVersion: 1.81.0
+    created: "2025-07-23T09:30:34.597574883Z"
     description: Speckle Server
-    digest: 991245b1db9ceca21e2faf6e16039f0c4b0c978c4907015774e92bbe8f270fdd
+    digest: e333812a0348d2e1ef07a9dba1597538e8d0992b60b032ee9e2021cdfa5273ea
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -203,15 +203,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.7.tgz
-    version: 0.1.7
+    - speckle-server-1.81.0.tgz
+    version: 1.81.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.065312+03:30"
+    appVersion: 1.80.0
+    created: "2025-07-23T09:30:34.589853553Z"
     description: Speckle Server
-    digest: 9b50d3995ceae4c0ca3d9e8aba5f9fc9ec59da8796432a6d20779a21e373e4e4
+    digest: c934a62bb83d5cc8d111c55893bbc001ba6f8455139023c69393ae3517eea8b2
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -220,15 +220,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.6.tgz
-    version: 0.1.6
+    - speckle-server-1.80.0.tgz
+    version: 1.80.0
   - apiVersion: v2
-    appVersion: 2.23.5
-    created: "2025-06-29T18:06:18.062966+03:30"
+    appVersion: 1.79.0
+    created: "2025-07-23T09:30:34.585489682Z"
     description: Speckle Server
-    digest: 306134d57cca3bcc5e9095b5c0c966f327288873816eb7ee1d9f5f9ad224407a
+    digest: a5e0d181f7c0c4c014a14959c8dd35848b5954958964aae0608fa8b3dae117e5
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -237,15 +237,15 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.5.tgz
-    version: 0.1.5
+    - speckle-server-1.79.0.tgz
+    version: 1.79.0
   - apiVersion: v2
-    appVersion: 0.1.4
-    created: "2025-06-29T18:06:18.060226+03:30"
+    appVersion: 1.78.0
+    created: "2025-07-23T09:30:34.580217299Z"
     description: Speckle Server
-    digest: b53616b9f6b25e95c1ebfbfca7ac0ba7d5c46abfdae0a657d834df7a25c5fa62
+    digest: 4ee3e5bf62c3f61796ed9a720e35ec06e142e7fdd01059adde70caa4cbba726b
     home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
+    icon: https://app.speckle.systems/images/logo.png
     maintainers:
     - name: Speckle Systems
       url: https://speckle.systems/
@@ -254,74 +254,6 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.4.tgz
-    version: 0.1.4
-  - apiVersion: v2
-    appVersion: 0.1.3
-    created: "2025-06-29T18:06:18.058258+03:30"
-    description: Speckle Server
-    digest: 01963ca0fe1ec12e4ad5f53f856fa8417eac6b7bfd3468aab07e3328c7d736e7
-    home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
-    maintainers:
-    - name: Speckle Systems
-      url: https://speckle.systems/
-    name: speckle-server
-    sources:
-    - https://github.com/specklesystems/speckle-server
-    type: application
-    urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.3.tgz
-    version: 0.1.3
-  - apiVersion: v2
-    appVersion: 0.1.2
-    created: "2025-06-29T18:06:18.056206+03:30"
-    description: Speckle Server
-    digest: a8944c5b6605cfc2d12ca39391790f25d703510f986ad204ab712f2c4c4164e4
-    home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
-    maintainers:
-    - name: Speckle Systems
-      url: https://speckle.systems/
-    name: speckle-server
-    sources:
-    - https://github.com/specklesystems/speckle-server
-    type: application
-    urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v2
-    appVersion: 0.1.1
-    created: "2025-06-29T18:06:18.035682+03:30"
-    description: Speckle Server
-    digest: 1ae0b4b6efb3eee2abda67451af0f1010c37f6be5aeeadefdc52c8009e0ec087
-    home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
-    maintainers:
-    - name: Speckle Systems
-      url: https://speckle.systems/
-    name: speckle-server
-    sources:
-    - https://github.com/specklesystems/speckle-server
-    type: application
-    urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v2
-    appVersion: 0.1.0
-    created: "2025-06-29T18:06:18.031656+03:30"
-    description: Speckle Server
-    digest: 04d3af0cd4065d6b2013bcd081682e227241e23820abc09885b9f01f38cf51c3
-    home: https://speckle.systems/
-    icon: https://speckle.xyz/logo.svg
-    maintainers:
-    - name: Speckle Systems
-      url: https://speckle.systems/
-    name: speckle-server
-    sources:
-    - https://github.com/specklesystems/speckle-server
-    type: application
-    urls:
-    - https://geovision-cloud.github.io/helm/speckle-server-0.1.0.tgz
-    version: 0.1.0
-generated: "2025-06-29T18:06:18.028362+03:30"
+    - speckle-server-1.78.0.tgz
+    version: 1.78.0
+generated: "2025-07-23T09:30:34.573409801Z"
