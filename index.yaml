@@ -2,8 +2,25 @@ apiVersion: v1
 entries:
   speckle-server:
   - apiVersion: v2
+    appVersion: 1.198.0
+    created: "2025-08-18T16:33:27.373763297Z"
+    description: Speckle Server
+    digest: 7a15c059d38ece0f51236b45a727a3037bebdc2863ef6abc875956e81129bf90
+    home: https://speckle.systems/
+    icon: https://app.speckle.systems/images/logo.png
+    maintainers:
+    - name: Speckle Systems
+      url: https://speckle.systems/
+    name: speckle-server
+    sources:
+    - https://github.com/specklesystems/speckle-server
+    type: application
+    urls:
+    - speckle-server-1.198.0.tgz
+    version: 1.198.0
+  - apiVersion: v2
     appVersion: 1.197.0
-    created: "2025-08-18T16:15:25.349390594Z"
+    created: "2025-08-18T16:33:27.369483485Z"
     description: Speckle Server
     digest: 4c41e87ce7da630cfe1344c874f1bf832d314bc659bb88b8d3fac4b6e3685e44
     home: https://speckle.systems/
@@ -20,7 +37,7 @@ entries:
     version: 1.197.0
   - apiVersion: v2
     appVersion: 1.196.0
-    created: "2025-08-18T16:15:25.341344929Z"
+    created: "2025-08-18T16:33:27.364765882Z"
     description: Speckle Server
     digest: c3d5ac827cba4b621870d9a80da48df95c94997add4a5bb5e94e301b988480c2
     home: https://speckle.systems/
@@ -37,7 +54,7 @@ entries:
     version: 1.196.0
   - apiVersion: v2
     appVersion: 1.195.0
-    created: "2025-08-18T16:15:25.3325436Z"
+    created: "2025-08-18T16:33:27.360153599Z"
     description: Speckle Server
     digest: 04e960b652c1e50b3b67a8c6639df040972899babc5c21db8a8642e9b3c4dfdc
     home: https://speckle.systems/
@@ -54,7 +71,7 @@ entries:
     version: 1.195.0
   - apiVersion: v2
     appVersion: 1.194.0
-    created: "2025-08-18T16:15:25.325452397Z"
+    created: "2025-08-18T16:33:27.355469221Z"
     description: Speckle Server
     digest: 3b4ebd41ab463310c057d865b79e933cdc9b18923eeeecb3978a6254e0898a73
     home: https://speckle.systems/
@@ -71,7 +88,7 @@ entries:
     version: 1.194.0
   - apiVersion: v2
     appVersion: 1.193.0
-    created: "2025-08-18T16:15:25.317730654Z"
+    created: "2025-08-18T16:33:27.35000935Z"
     description: Speckle Server
     digest: fed01b8775d9866f1a866da539f57b0d2fbc310520f30cfdb9d3463f160622fb
     home: https://speckle.systems/
@@ -88,7 +105,7 @@ entries:
     version: 1.193.0
   - apiVersion: v2
     appVersion: 1.192.0
-    created: "2025-08-18T16:15:25.310755057Z"
+    created: "2025-08-18T16:33:27.345458291Z"
     description: Speckle Server
     digest: abb6dbf1056ef88520b3a1c6d89c4bc321adc1b67c374d09c3369384c18fbae7
     home: https://speckle.systems/
@@ -105,7 +122,7 @@ entries:
     version: 1.192.0
   - apiVersion: v2
     appVersion: 1.191.0
-    created: "2025-08-18T16:15:25.306435716Z"
+    created: "2025-08-18T16:33:27.341156485Z"
     description: Speckle Server
     digest: 2581c8bc0614623b01097d36295899d9b87e0adddb29d0ba1caa5d93288bf9fe
     home: https://speckle.systems/
@@ -122,7 +139,7 @@ entries:
     version: 1.191.0
   - apiVersion: v2
     appVersion: 1.190.0
-    created: "2025-08-18T16:15:25.302001804Z"
+    created: "2025-08-18T16:33:27.336000336Z"
     description: Speckle Server
     digest: a3b0f60480f74a2e1b9d4b76ae97ea62036ec52a6643e1fcad675dd25e82f87e
     home: https://speckle.systems/
@@ -139,7 +156,7 @@ entries:
     version: 1.190.0
   - apiVersion: v2
     appVersion: 1.189.0
-    created: "2025-08-18T16:15:25.297517972Z"
+    created: "2025-08-18T16:33:27.331569681Z"
     description: Speckle Server
     digest: 081c42db90999a948cc8e07abebd497e17bfcf68059a0c97919620c1b1642b61
     home: https://speckle.systems/
@@ -156,7 +173,7 @@ entries:
     version: 1.189.0
   - apiVersion: v2
     appVersion: 1.188.0
-    created: "2025-08-18T16:15:25.294014907Z"
+    created: "2025-08-18T16:33:27.326980815Z"
     description: Speckle Server
     digest: 2499295c93765009ce5932362ed8d7b40e3cca14f19bef1281752c9abffb35f2
     home: https://speckle.systems/
@@ -173,7 +190,7 @@ entries:
     version: 1.188.0
   - apiVersion: v2
     appVersion: 1.187.0
-    created: "2025-08-18T16:15:25.289979599Z"
+    created: "2025-08-18T16:33:27.320878919Z"
     description: Speckle Server
     digest: ce1b558ebe5f5aef56471961d27566ca07004f8a95a39c2895989d4be8c2492a
     home: https://speckle.systems/
@@ -190,7 +207,7 @@ entries:
     version: 1.187.0
   - apiVersion: v2
     appVersion: 1.186.0
-    created: "2025-08-18T16:15:25.285079877Z"
+    created: "2025-08-18T16:33:27.314807084Z"
     description: Speckle Server
     digest: c98b0103fdb80b9727c42652cd23d839120f8f237a787d153383c2d1ad6f75d6
     home: https://speckle.systems/
@@ -207,7 +224,7 @@ entries:
     version: 1.186.0
   - apiVersion: v2
     appVersion: 1.185.0
-    created: "2025-08-18T16:15:25.280781148Z"
+    created: "2025-08-18T16:33:27.30902419Z"
     description: Speckle Server
     digest: eed352a74a153e575c6fe4327cd82f9dccf4b001ac1a84f6b4ba5d5eb460849f
     home: https://speckle.systems/
@@ -224,7 +241,7 @@ entries:
     version: 1.185.0
   - apiVersion: v2
     appVersion: 1.184.0
-    created: "2025-08-18T16:15:25.275078527Z"
+    created: "2025-08-18T16:33:27.302002579Z"
     description: Speckle Server
     digest: 353c2ff370a78be1235bab4ce5b5eadb7c12d985f390bf188f872a4cefdb733a
     home: https://speckle.systems/
@@ -241,7 +258,7 @@ entries:
     version: 1.184.0
   - apiVersion: v2
     appVersion: 1.183.0
-    created: "2025-08-18T16:15:25.26804345Z"
+    created: "2025-08-18T16:33:27.297354775Z"
     description: Speckle Server
     digest: 1b89380dc1889a02b32ea1ac57da30c82568e3660115dc8b1d0473e9a3b465e5
     home: https://speckle.systems/
@@ -258,7 +275,7 @@ entries:
     version: 1.183.0
   - apiVersion: v2
     appVersion: 1.182.0
-    created: "2025-08-18T16:15:25.260527932Z"
+    created: "2025-08-18T16:33:27.292012782Z"
     description: Speckle Server
     digest: bc8e8d2d6fb31bb9e2fd11d6ff4c604ee4c4618322c4114c5ee523f72de23d23
     home: https://speckle.systems/
@@ -275,7 +292,7 @@ entries:
     version: 1.182.0
   - apiVersion: v2
     appVersion: 1.181.0
-    created: "2025-08-18T16:15:25.253200826Z"
+    created: "2025-08-18T16:33:27.286764166Z"
     description: Speckle Server
     digest: ace5b196ead850f76429b2c97f90e70223c893fbc75d357288385fabf1df46cd
     home: https://speckle.systems/
@@ -292,7 +309,7 @@ entries:
     version: 1.181.0
   - apiVersion: v2
     appVersion: 1.178.0
-    created: "2025-08-18T16:15:25.2461022Z"
+    created: "2025-08-18T16:33:27.282341156Z"
     description: Speckle Server
     digest: 68b5d4982f8bf77171fbb697ef51961bac8dfc17c96acff4fa67753b919cf079
     home: https://speckle.systems/
@@ -309,7 +326,7 @@ entries:
     version: 1.178.0
   - apiVersion: v2
     appVersion: 1.177.0
-    created: "2025-08-18T16:15:25.238390297Z"
+    created: "2025-08-18T16:33:27.277035906Z"
     description: Speckle Server
     digest: 28d47e20185ffb40293e24a251368b645cb7215b2ccffaf504c043a1a347d644
     home: https://speckle.systems/
@@ -326,7 +343,7 @@ entries:
     version: 1.177.0
   - apiVersion: v2
     appVersion: 1.173.0
-    created: "2025-08-18T16:15:25.229268862Z"
+    created: "2025-08-18T16:33:27.272734932Z"
     description: Speckle Server
     digest: 801cb3d2e897e32b252aa90883f7dc8cd9cb0d245200364bca32e7ec4d7d2db9
     home: https://speckle.systems/
@@ -343,7 +360,7 @@ entries:
     version: 1.173.0
   - apiVersion: v2
     appVersion: 1.172.0
-    created: "2025-08-18T16:15:25.220372731Z"
+    created: "2025-08-18T16:33:27.267041279Z"
     description: Speckle Server
     digest: 4141839f999c63882ef277159fbe6ee4604c14d88dc5d2dd01ef3d14c97c2889
     home: https://speckle.systems/
@@ -360,7 +377,7 @@ entries:
     version: 1.172.0
   - apiVersion: v2
     appVersion: 1.171.0
-    created: "2025-08-18T16:15:25.210977923Z"
+    created: "2025-08-18T16:33:27.263265664Z"
     description: Speckle Server
     digest: f77a7586f4e609f7cf1cc270be0059d28ee8f42fbb7b8528b221f033f2a9e2f8
     home: https://speckle.systems/
@@ -377,7 +394,7 @@ entries:
     version: 1.171.0
   - apiVersion: v2
     appVersion: 1.170.0
-    created: "2025-08-18T16:15:25.202741913Z"
+    created: "2025-08-18T16:33:27.259565411Z"
     description: Speckle Server
     digest: 2bc3da5f5d32f4c706d231382da87b629f74ed6a04ef7b6a5577de937108a5fc
     home: https://speckle.systems/
@@ -394,7 +411,7 @@ entries:
     version: 1.170.0
   - apiVersion: v2
     appVersion: 1.169.0
-    created: "2025-08-18T16:15:25.194624133Z"
+    created: "2025-08-18T16:33:27.254761614Z"
     description: Speckle Server
     digest: e8a6e9c17d732fca2d7b26c96509a976ca2d8111ad59763eccac1f3e07fb9635
     home: https://speckle.systems/
@@ -411,7 +428,7 @@ entries:
     version: 1.169.0
   - apiVersion: v2
     appVersion: 1.168.0
-    created: "2025-08-18T16:15:25.185636767Z"
+    created: "2025-08-18T16:33:27.250458935Z"
     description: Speckle Server
     digest: 7e6f0efd8972283ae257a269cd58ec714ec47e5f703fdd1b74e4aba9e2a7251d
     home: https://speckle.systems/
@@ -428,7 +445,7 @@ entries:
     version: 1.168.0
   - apiVersion: v2
     appVersion: 1.167.0
-    created: "2025-08-18T16:15:25.178626639Z"
+    created: "2025-08-18T16:33:27.246085545Z"
     description: Speckle Server
     digest: 335303199461c3538bd632b1fe907eb2f00ae6c48d526b8977389a87fae9ee3b
     home: https://speckle.systems/
@@ -445,7 +462,7 @@ entries:
     version: 1.167.0
   - apiVersion: v2
     appVersion: 1.166.0
-    created: "2025-08-18T16:15:25.171335847Z"
+    created: "2025-08-18T16:33:27.24083706Z"
     description: Speckle Server
     digest: ad8245817f964f2e3c6f2c85723cf65a672367cd2140f1c28c5f7eccbe24245c
     home: https://speckle.systems/
@@ -462,7 +479,7 @@ entries:
     version: 1.166.0
   - apiVersion: v2
     appVersion: 1.164.0
-    created: "2025-08-18T16:15:25.162933661Z"
+    created: "2025-08-18T16:33:27.236072451Z"
     description: Speckle Server
     digest: d52ea7440e32b0fe73d3249d1fd5be54a1d89752f9ae7a342b26d9805c019926
     home: https://speckle.systems/
@@ -479,7 +496,7 @@ entries:
     version: 1.164.0
   - apiVersion: v2
     appVersion: 1.163.0
-    created: "2025-08-18T16:15:25.155741116Z"
+    created: "2025-08-18T16:33:27.230149074Z"
     description: Speckle Server
     digest: 9dc46e8db8f005bdff976755a634e43e7d332689172b1f73659dd446abcc933c
     home: https://speckle.systems/
@@ -496,7 +513,7 @@ entries:
     version: 1.163.0
   - apiVersion: v2
     appVersion: 1.162.0
-    created: "2025-08-18T16:15:25.147343159Z"
+    created: "2025-08-18T16:33:27.225950365Z"
     description: Speckle Server
     digest: 8162ec80d0026eb8d29b9b5e8bd30f61bb3c859396ebdaaf448046d3a324cba3
     home: https://speckle.systems/
@@ -513,7 +530,7 @@ entries:
     version: 1.162.0
   - apiVersion: v2
     appVersion: 1.160.0
-    created: "2025-08-18T16:15:25.13858128Z"
+    created: "2025-08-18T16:33:27.221534339Z"
     description: Speckle Server
     digest: 5529bdcbb82a429d35cee5e0bec63bb206cf2433d8d61c1237c0e0e0a580534a
     home: https://speckle.systems/
@@ -530,7 +547,7 @@ entries:
     version: 1.160.0
   - apiVersion: v2
     appVersion: 1.159.0
-    created: "2025-08-18T16:15:25.131351268Z"
+    created: "2025-08-18T16:33:27.215734072Z"
     description: Speckle Server
     digest: 3e73589cb2abad2880c55fa37a132f4405f512514eee9e2f648fffba7e5cb908
     home: https://speckle.systems/
@@ -547,7 +564,7 @@ entries:
     version: 1.159.0
   - apiVersion: v2
     appVersion: 1.158.0
-    created: "2025-08-18T16:15:25.122381359Z"
+    created: "2025-08-18T16:33:27.211402015Z"
     description: Speckle Server
     digest: fd5d7dc6b1d607a1894349751a39e57ce00d43de4287cb3be8983418dfb38f4a
     home: https://speckle.systems/
@@ -564,7 +581,7 @@ entries:
     version: 1.158.0
   - apiVersion: v2
     appVersion: 1.157.0
-    created: "2025-08-18T16:15:25.114720949Z"
+    created: "2025-08-18T16:33:27.206925056Z"
     description: Speckle Server
     digest: 33b23461bca49a4c55f066042fe32a1693bdf41d1004d64cc90ec1528ed9de31
     home: https://speckle.systems/
@@ -581,7 +598,7 @@ entries:
     version: 1.157.0
   - apiVersion: v2
     appVersion: 1.154.0
-    created: "2025-08-18T16:15:25.107243288Z"
+    created: "2025-08-18T16:33:27.201460013Z"
     description: Speckle Server
     digest: 042305a3e77a3dc3e46fd57ac3f2000faac59823f8402dfd3d90b6e366203a08
     home: https://speckle.systems/
@@ -598,7 +615,7 @@ entries:
     version: 1.154.0
   - apiVersion: v2
     appVersion: 1.153.0
-    created: "2025-08-18T16:15:25.098149178Z"
+    created: "2025-08-18T16:33:27.197078767Z"
     description: Speckle Server
     digest: 64474be3e37fb649ff597d5e378f2c2bca72d8eb31c2445fdf9378d110756969
     home: https://speckle.systems/
@@ -615,7 +632,7 @@ entries:
     version: 1.153.0
   - apiVersion: v2
     appVersion: 1.145.0
-    created: "2025-08-18T16:15:25.090605144Z"
+    created: "2025-08-18T16:33:27.191499555Z"
     description: Speckle Server
     digest: bd45f130dfbd5c013a274c1a6e6230e961be1b1df6d35bc49873b0dbfe9e8b7b
     home: https://speckle.systems/
@@ -632,7 +649,7 @@ entries:
     version: 1.145.0
   - apiVersion: v2
     appVersion: 1.138.0
-    created: "2025-08-18T16:15:25.082861217Z"
+    created: "2025-08-18T16:33:27.187025622Z"
     description: Speckle Server
     digest: 6657de9b523f3fed97da9c5b6a240ffad14136a243101069eb6ef2b0f098c30b
     home: https://speckle.systems/
@@ -649,7 +666,7 @@ entries:
     version: 1.138.0
   - apiVersion: v2
     appVersion: 1.135.0
-    created: "2025-08-18T16:15:25.072739124Z"
+    created: "2025-08-18T16:33:27.182703846Z"
     description: Speckle Server
     digest: b4ad46a9b316a54055321e594d775b8f8c139b5ade3bc04f9faa9b8e72546992
     home: https://speckle.systems/
@@ -666,7 +683,7 @@ entries:
     version: 1.135.0
   - apiVersion: v2
     appVersion: 1.134.0
-    created: "2025-08-18T16:15:25.064592343Z"
+    created: "2025-08-18T16:33:27.177187681Z"
     description: Speckle Server
     digest: 4a8433830ab79025204ea88abe77e181c4ce81b72f66bdc141fe20fbb050e4f9
     home: https://speckle.systems/
@@ -683,7 +700,7 @@ entries:
     version: 1.134.0
   - apiVersion: v2
     appVersion: 1.133.0
-    created: "2025-08-18T16:15:25.055864722Z"
+    created: "2025-08-18T16:33:27.173006428Z"
     description: Speckle Server
     digest: a71afa93a13a93c0b5a2acf24d10fe5b07748349224fefd4d41e70b58edfea7d
     home: https://speckle.systems/
@@ -700,7 +717,7 @@ entries:
     version: 1.133.0
   - apiVersion: v2
     appVersion: 1.129.0
-    created: "2025-08-18T16:15:25.051577036Z"
+    created: "2025-08-18T16:33:27.168924675Z"
     description: Speckle Server
     digest: 13b1e789fd69516a212bf10bdcfcb2ae396e23447a786fbfccd2e60818bb4256
     home: https://speckle.systems/
@@ -717,7 +734,7 @@ entries:
     version: 1.129.0
   - apiVersion: v2
     appVersion: 1.128.0
-    created: "2025-08-18T16:15:25.047296352Z"
+    created: "2025-08-18T16:33:27.162551101Z"
     description: Speckle Server
     digest: 89d57267414676cbfded50e0470a88222ced1677d98d1542edf81e762bb89040
     home: https://speckle.systems/
@@ -734,7 +751,7 @@ entries:
     version: 1.128.0
   - apiVersion: v2
     appVersion: 1.127.0
-    created: "2025-08-18T16:15:25.041967736Z"
+    created: "2025-08-18T16:33:27.156872258Z"
     description: Speckle Server
     digest: 8f4c9d019a51fb8aa9e7da3bcf4316ab913382fc38f2e9cfb2991b204e76ffd7
     home: https://speckle.systems/
@@ -751,7 +768,7 @@ entries:
     version: 1.127.0
   - apiVersion: v2
     appVersion: 1.126.0
-    created: "2025-08-18T16:15:25.037699117Z"
+    created: "2025-08-18T16:33:27.150413302Z"
     description: Speckle Server
     digest: d38fa155c69ceeaa87363c1cfc8e74b26a684f551cf192487d1bf024d0e1fb58
     home: https://speckle.systems/
@@ -768,7 +785,7 @@ entries:
     version: 1.126.0
   - apiVersion: v2
     appVersion: 1.125.0
-    created: "2025-08-18T16:15:25.03334208Z"
+    created: "2025-08-18T16:33:27.14622752Z"
     description: Speckle Server
     digest: 0ec044c921e348f60e1e5fd6837b52390e3e12b7d77a97aa3105a8a7a6660dfb
     home: https://speckle.systems/
@@ -785,7 +802,7 @@ entries:
     version: 1.125.0
   - apiVersion: v2
     appVersion: 1.122.0
-    created: "2025-08-18T16:15:25.027905035Z"
+    created: "2025-08-18T16:33:27.14271692Z"
     description: Speckle Server
     digest: 00622681d9a7f57197f949f097213ee512bb1854226f6a276fe70aecfbbf5150
     home: https://speckle.systems/
@@ -802,7 +819,7 @@ entries:
     version: 1.122.0
   - apiVersion: v2
     appVersion: 1.115.0
-    created: "2025-08-18T16:15:25.023484199Z"
+    created: "2025-08-18T16:33:27.138318208Z"
     description: Speckle Server
     digest: 2f92c07a229b527a2b02058a6a113a2ecdf4e9e9e6d922e6e63f7788c069355e
     home: https://speckle.systems/
@@ -819,7 +836,7 @@ entries:
     version: 1.115.0
   - apiVersion: v2
     appVersion: 1.114.0
-    created: "2025-08-18T16:15:25.015549016Z"
+    created: "2025-08-18T16:33:27.134125272Z"
     description: Speckle Server
     digest: 43e7ce04231aca8a8e4c1c9442b009796f05d44a4374cb3c632506391fbec179
     home: https://speckle.systems/
@@ -836,7 +853,7 @@ entries:
     version: 1.114.0
   - apiVersion: v2
     appVersion: 1.113.0
-    created: "2025-08-18T16:15:25.007941213Z"
+    created: "2025-08-18T16:33:27.127974467Z"
     description: Speckle Server
     digest: 270c78fc6da40a592b08ea3202aa819e995da0a0336010b531c24b96bfe484f4
     home: https://speckle.systems/
@@ -853,7 +870,7 @@ entries:
     version: 1.113.0
   - apiVersion: v2
     appVersion: 1.112.0
-    created: "2025-08-18T16:15:25.00020466Z"
+    created: "2025-08-18T16:33:27.121761256Z"
     description: Speckle Server
     digest: 9311c73d6035ea139bc33249d40742ac63d1792cb971b6465ece326f5a39b753
     home: https://speckle.systems/
@@ -870,7 +887,7 @@ entries:
     version: 1.112.0
   - apiVersion: v2
     appVersion: 1.111.0
-    created: "2025-08-18T16:15:24.991172095Z"
+    created: "2025-08-18T16:33:27.115689119Z"
     description: Speckle Server
     digest: bfb9d366a3ff69fc312879b2e448fa9ea97ced2052b4cdbff7284c893fdca187
     home: https://speckle.systems/
@@ -887,7 +904,7 @@ entries:
     version: 1.111.0
   - apiVersion: v2
     appVersion: 1.110.0
-    created: "2025-08-18T16:15:24.98394547Z"
+    created: "2025-08-18T16:33:27.109823189Z"
     description: Speckle Server
     digest: a6217cd258c395d8536762b46b8086eaaf991f856ff917ea2ff3ee27528b6b96
     home: https://speckle.systems/
@@ -904,7 +921,7 @@ entries:
     version: 1.110.0
   - apiVersion: v2
     appVersion: 1.109.0
-    created: "2025-08-18T16:15:24.975260535Z"
+    created: "2025-08-18T16:33:27.101780449Z"
     description: Speckle Server
     digest: 51b810a7b80b99b0741ca9306e0daae0c9610ba32d6ffa9e042d8a902ebfd761
     home: https://speckle.systems/
@@ -921,7 +938,7 @@ entries:
     version: 1.109.0
   - apiVersion: v2
     appVersion: 1.108.0
-    created: "2025-08-18T16:15:24.967421145Z"
+    created: "2025-08-18T16:33:27.092266371Z"
     description: Speckle Server
     digest: 296cbf1dca9bb2ce6583cae5250faa6b73568240841e667c207a860fcd2f8e7e
     home: https://speckle.systems/
@@ -938,7 +955,7 @@ entries:
     version: 1.108.0
   - apiVersion: v2
     appVersion: 1.107.0
-    created: "2025-08-18T16:15:24.959413576Z"
+    created: "2025-08-18T16:33:27.082752663Z"
     description: Speckle Server
     digest: 2cc10ddea0ca827017e1add8736fddcdc74233e11bbdfc64151bd9b1fa57841a
     home: https://speckle.systems/
@@ -955,7 +972,7 @@ entries:
     version: 1.107.0
   - apiVersion: v2
     appVersion: 1.106.0
-    created: "2025-08-18T16:15:24.951998573Z"
+    created: "2025-08-18T16:33:27.078725421Z"
     description: Speckle Server
     digest: be4ba0f2f3b2fdf948c2dafdacbc77673219b065a23287bad939b9b359182eaa
     home: https://speckle.systems/
@@ -972,7 +989,7 @@ entries:
     version: 1.106.0
   - apiVersion: v2
     appVersion: 1.105.0
-    created: "2025-08-18T16:15:24.944633549Z"
+    created: "2025-08-18T16:33:27.074388864Z"
     description: Speckle Server
     digest: bfa3df000b3ad2ed0bd8f5677d8cfc306fc080124f1424c128e7e0f784aa29ac
     home: https://speckle.systems/
@@ -989,7 +1006,7 @@ entries:
     version: 1.105.0
   - apiVersion: v2
     appVersion: 1.104.0
-    created: "2025-08-18T16:15:24.937921673Z"
+    created: "2025-08-18T16:33:27.069423631Z"
     description: Speckle Server
     digest: 45e1885eb00bfa6cbe76712f7ecfe0feea3e1b57d1a8be6379dc73d834f6de52
     home: https://speckle.systems/
@@ -1006,7 +1023,7 @@ entries:
     version: 1.104.0
   - apiVersion: v2
     appVersion: 1.103.0
-    created: "2025-08-18T16:15:24.933560428Z"
+    created: "2025-08-18T16:33:27.065354454Z"
     description: Speckle Server
     digest: 68eee3792694f23b71ffebad5fcbbb1148a9f15dfbc422fbc1f63e95e95272f4
     home: https://speckle.systems/
@@ -1023,7 +1040,7 @@ entries:
     version: 1.103.0
   - apiVersion: v2
     appVersion: 1.102.0
-    created: "2025-08-18T16:15:24.928185939Z"
+    created: "2025-08-18T16:33:27.060495434Z"
     description: Speckle Server
     digest: d6ea6d85b5097021fad867dfd642b27261459172ecf6d39481ee4b55f60948e4
     home: https://speckle.systems/
@@ -1040,7 +1057,7 @@ entries:
     version: 1.102.0
   - apiVersion: v2
     appVersion: 1.101.0
-    created: "2025-08-18T16:15:24.923936218Z"
+    created: "2025-08-18T16:33:27.057142231Z"
     description: Speckle Server
     digest: b6b1d96a6a1c36854e9e49353c2df5fcef74d59a433950a581460a1ad79a8818
     home: https://speckle.systems/
@@ -1057,7 +1074,7 @@ entries:
     version: 1.101.0
   - apiVersion: v2
     appVersion: 1.100.0
-    created: "2025-08-18T16:15:24.919349036Z"
+    created: "2025-08-18T16:33:27.053686702Z"
     description: Speckle Server
     digest: 178ed33e94edf9d9c9d7c71b55a6b6a85f84f817222d0b87583344ca37a697c0
     home: https://speckle.systems/
@@ -1074,7 +1091,7 @@ entries:
     version: 1.100.0
   - apiVersion: v2
     appVersion: 1.99.0
-    created: "2025-08-18T16:15:25.478754016Z"
+    created: "2025-08-18T16:33:27.471811002Z"
     description: Speckle Server
     digest: 1effbb84f824b651c205ee6bb6ab302672cc646c713da69d3370a0954a185d8a
     home: https://speckle.systems/
@@ -1091,7 +1108,7 @@ entries:
     version: 1.99.0
   - apiVersion: v2
     appVersion: 1.98.0
-    created: "2025-08-18T16:15:25.472943878Z"
+    created: "2025-08-18T16:33:27.467070641Z"
     description: Speckle Server
     digest: ca5d4b7ca61d2bd1eedaa27e29d8a116ebb552da3a32e2bd0149c2565b298ead
     home: https://speckle.systems/
@@ -1108,7 +1125,7 @@ entries:
     version: 1.98.0
   - apiVersion: v2
     appVersion: 1.97.0
-    created: "2025-08-18T16:15:25.468269261Z"
+    created: "2025-08-18T16:33:27.461070359Z"
     description: Speckle Server
     digest: 16a0e2673b28c040cbc9c80c0dd2d224a173da7c3527fb5745a4c42a29e40883
     home: https://speckle.systems/
@@ -1125,7 +1142,7 @@ entries:
     version: 1.97.0
   - apiVersion: v2
     appVersion: 1.96.0
-    created: "2025-08-18T16:15:25.462656673Z"
+    created: "2025-08-18T16:33:27.456190058Z"
     description: Speckle Server
     digest: 7ccd63ee3b751bcca024a4f0a778536bffae1f444df559e123d003753e3e41f1
     home: https://speckle.systems/
@@ -1142,7 +1159,7 @@ entries:
     version: 1.96.0
   - apiVersion: v2
     appVersion: 1.94.0
-    created: "2025-08-18T16:15:25.455566654Z"
+    created: "2025-08-18T16:33:27.450589752Z"
     description: Speckle Server
     digest: 0d6f82dc73413c3325b4295e689e20479478d09ca3d21c132b9301c9d438c4b7
     home: https://speckle.systems/
@@ -1159,7 +1176,7 @@ entries:
     version: 1.94.0
   - apiVersion: v2
     appVersion: 1.93.0
-    created: "2025-08-18T16:15:25.448238114Z"
+    created: "2025-08-18T16:33:27.446303227Z"
     description: Speckle Server
     digest: 5c06b73d3c532a8947d668b2130df1164302703cd59f66cb65ed3bf0e2421bec
     home: https://speckle.systems/
@@ -1176,7 +1193,7 @@ entries:
     version: 1.93.0
   - apiVersion: v2
     appVersion: 1.92.0
-    created: "2025-08-18T16:15:25.442172952Z"
+    created: "2025-08-18T16:33:27.441912682Z"
     description: Speckle Server
     digest: 8fb98fbae894f62dd6f9c076c647710af6ef97b85773becf0376a8c86d32314d
     home: https://speckle.systems/
@@ -1193,7 +1210,7 @@ entries:
     version: 1.92.0
   - apiVersion: v2
     appVersion: 1.90.0
-    created: "2025-08-18T16:15:25.437691353Z"
+    created: "2025-08-18T16:33:27.437019223Z"
     description: Speckle Server
     digest: 776e8876124ac4568ed8ff6da41572b077419cf2cd405540b4024fd10d87886d
     home: https://speckle.systems/
@@ -1210,7 +1227,7 @@ entries:
     version: 1.90.0
   - apiVersion: v2
     appVersion: 1.89.0
-    created: "2025-08-18T16:15:25.43070822Z"
+    created: "2025-08-18T16:33:27.432225264Z"
     description: Speckle Server
     digest: 2057824787af4055c2cda15f9bcebff9f470e128e2237571a4e647e4a9b2872a
     home: https://speckle.systems/
@@ -1227,7 +1244,7 @@ entries:
     version: 1.89.0
   - apiVersion: v2
     appVersion: 1.88.0
-    created: "2025-08-18T16:15:25.423561737Z"
+    created: "2025-08-18T16:33:27.426433303Z"
     description: Speckle Server
     digest: 25a84c57df8e53e15ef69595299574136c73703ca6856205c2448157358d3423
     home: https://speckle.systems/
@@ -1244,7 +1261,7 @@ entries:
     version: 1.88.0
   - apiVersion: v2
     appVersion: 1.87.0
-    created: "2025-08-18T16:15:25.416195312Z"
+    created: "2025-08-18T16:33:27.419849485Z"
     description: Speckle Server
     digest: 39d84b86235d7ac06034191b0ead2fa5f83cf0f4a51800bfc0e7b6d36ad9a6cb
     home: https://speckle.systems/
@@ -1261,7 +1278,7 @@ entries:
     version: 1.87.0
   - apiVersion: v2
     appVersion: 1.86.0
-    created: "2025-08-18T16:15:25.410238408Z"
+    created: "2025-08-18T16:33:27.413968523Z"
     description: Speckle Server
     digest: b264dbac35311842158a12e128b1fe96e2446b5a28cc0dfda79c7b12278fc9f0
     home: https://speckle.systems/
@@ -1278,7 +1295,7 @@ entries:
     version: 1.86.0
   - apiVersion: v2
     appVersion: 1.85.0
-    created: "2025-08-18T16:15:25.405048552Z"
+    created: "2025-08-18T16:33:27.407013287Z"
     description: Speckle Server
     digest: fc7f002e1f103df546accdc5e31964c19d947d23a3c13a3730ab9c51a6715f2b
     home: https://speckle.systems/
@@ -1295,7 +1312,7 @@ entries:
     version: 1.85.0
   - apiVersion: v2
     appVersion: 1.84.0
-    created: "2025-08-18T16:15:25.399251722Z"
+    created: "2025-08-18T16:33:27.401851917Z"
     description: Speckle Server
     digest: 8d8b43416862408cd5264d441906d5d79e723812bc716b7a7c2c1a6a17b59910
     home: https://speckle.systems/
@@ -1312,7 +1329,7 @@ entries:
     version: 1.84.0
   - apiVersion: v2
     appVersion: 1.82.0
-    created: "2025-08-18T16:15:25.391579809Z"
+    created: "2025-08-18T16:33:27.397348003Z"
     description: Speckle Server
     digest: bdb224f24eb658c61a23a47b012652c50bc1ec594e7f210933a601849c23e898
     home: https://speckle.systems/
@@ -1329,7 +1346,7 @@ entries:
     version: 1.82.0
   - apiVersion: v2
     appVersion: 1.81.0
-    created: "2025-08-18T16:15:25.384241901Z"
+    created: "2025-08-18T16:33:27.392788478Z"
     description: Speckle Server
     digest: e333812a0348d2e1ef07a9dba1597538e8d0992b60b032ee9e2021cdfa5273ea
     home: https://speckle.systems/
@@ -1346,7 +1363,7 @@ entries:
     version: 1.81.0
   - apiVersion: v2
     appVersion: 1.80.0
-    created: "2025-08-18T16:15:25.375467375Z"
+    created: "2025-08-18T16:33:27.387586916Z"
     description: Speckle Server
     digest: c934a62bb83d5cc8d111c55893bbc001ba6f8455139023c69393ae3517eea8b2
     home: https://speckle.systems/
@@ -1363,7 +1380,7 @@ entries:
     version: 1.80.0
   - apiVersion: v2
     appVersion: 1.79.0
-    created: "2025-08-18T16:15:25.366696677Z"
+    created: "2025-08-18T16:33:27.383302787Z"
     description: Speckle Server
     digest: a5e0d181f7c0c4c014a14959c8dd35848b5954958964aae0608fa8b3dae117e5
     home: https://speckle.systems/
@@ -1380,7 +1397,7 @@ entries:
     version: 1.79.0
   - apiVersion: v2
     appVersion: 1.78.0
-    created: "2025-08-18T16:15:25.357444889Z"
+    created: "2025-08-18T16:33:27.378887923Z"
     description: Speckle Server
     digest: 4ee3e5bf62c3f61796ed9a720e35ec06e142e7fdd01059adde70caa4cbba726b
     home: https://speckle.systems/
@@ -1395,4 +1412,4 @@ entries:
     urls:
     - speckle-server-1.78.0.tgz
     version: 1.78.0
-generated: "2025-08-18T16:15:24.914041814Z"
+generated: "2025-08-18T16:33:27.048942414Z"
