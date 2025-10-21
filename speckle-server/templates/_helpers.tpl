@@ -649,6 +649,18 @@ Generate the environment variables for Speckle server and Speckle objects deploy
       name: "{{ default .Values.secretName .Values.billing.secretName }}"
       key: {{ .Values.billing.stripeEndpointSigningKey.secretKey }}
 
+- name: FAST_SPRING_USER_NAME
+  valueFrom:
+    secretKeyRef:
+      name: "{{ default .Values.secretName .Values.billing.secretName }}"
+      key: {{ .Values.billing.fastSpringUserName.secretKey }}
+
+- name: FAST_SPRING_PASSWORD
+  valueFrom:
+    secretKeyRef:
+      name: "{{ default .Values.secretName .Values.billing.secretName }}"
+      key: {{ .Values.billing.fastSpringPassword.secretKey }}
+
 - name: WORKSPACE_TEAM_SEAT_STRIPE_PRODUCT_ID
   value: {{ .Values.billing.workspaceTeamSeatStripeProductId }}
 
