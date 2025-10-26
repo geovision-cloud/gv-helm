@@ -1,6 +1,6 @@
 apiVersion: v2
 # When releasing, 'appVersion' is set by the Chart publishing process
-appVersion: '2.25.92-branch.fix-mixpanel.327-a0ff2a2'
+appVersion: '2.25.92-branch.fix-mixpanel.328-dcbe818'
 description: Speckle Server
 home: 'https://speckle.systems/'
 icon: 'https://app.speckle.systems/images/logo.png'
@@ -12,4 +12,4 @@ sources:
   - 'https://github.com/specklesystems/speckle-server'
 type: application
 # When releasing, 'version' is set by the Chart publishing process
-version: 2.25.92-branch.fix-mixpanel.327-a0ff2a2
+version: 2.25.92-branch.fix-mixpanel.328-dcbe818
