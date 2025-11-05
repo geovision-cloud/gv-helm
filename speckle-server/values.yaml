@@ -116,7 +116,7 @@ ingress:
 ##
 ## @param docker_image_tag DEPRECATED: Use `{service}.image` with full image name instead. Speckle is published as a Docker Image.  The version of the image which will be deployed is specified by this tag.
 ##
-docker_image_tag: '2.26.6-branch.feat-fastspring.363-135cfaa'
+docker_image_tag: '2.26.6-branch.gv-main.364-05421a8'
 ## @param imagePullPolicy Determines the conditions when the Docker Images for Speckle should be pulled from the Image registry.
 ## ref: https://kubernetes.io/docs/concepts/containers/images/#image-pull-policy
 ##
@@ -477,14 +477,11 @@ billing:
   ## @param billing.secretName The name of the Kubernetes Secret containing the Session secret.  This is a unique value (can be generated randomly). This is expected to be provided within the Kubernetes cluster as an opaque Kubernetes Secret. Ref: https://kubernetes.io/docs/concepts/configuration/secret/#opaque-secrets
   secretName: 'fastspring'
   fastSpringUserName:
-    ## param server.billing.fastSpringUserName.secretKey The key within the Kubernetes Secret holding the FastSpring UserName as its value.
+    ## param server.billing.fastSpringUserName.secretKey The key within the Kubernetes Secret holding the fastSpringUserName as its value.
     secretKey: 'fastSpringUserName'
   fastSpringPassword:
-    ## param server.billing.fastSpringPassword.secretKey The key within the Kubernetes Secret holding the FastSpring Password as its value.
+    ## param server.billing.fastSpringPassword.secretKey The key within the Kubernetes Secret holding the fastSpringPassword as its value.
     secretKey: 'fastSpringPassword'
-  fastSpringSecret:
-    ## param server.billing.fastSpringSecret.secretKey The key within the Kubernetes Secret holding the FastSpring Webhook HMAC Secret as its value.
-    secretKey: 'fastSpringSecret'
   stripeApiKey:
     ## @param billing.stripeApiKey.secretKey The key within the Kubernetes Secret holding the stripeApiKey secret as its value.
     secretKey: 'stripeApiKey'

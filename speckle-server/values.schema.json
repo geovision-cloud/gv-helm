@@ -747,16 +747,6 @@
             }
           }
         },
-        "fastSpringSecret": {
-          "type": "object",
-          "properties": {
-            "secretKey": {
-              "type": "string",
-              "description": "The key within the Kubernetes Secret holding the fastSpringSecret secret as its value.",
-              "default": "fastSpringSecret"
-            }
-          }
-        },
         "workspaceGuestSeatStripeProductId": {
           "type": "string",
           "description": "The workspace Guest Seat Product Id as configured in Stripe.",
