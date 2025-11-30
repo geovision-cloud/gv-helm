@@ -1,6 +1,6 @@
 apiVersion: v2
 # When releasing, 'appVersion' is set by the Chart publishing process
-appVersion: '2.26.9-branch.gv-main.390-114202a'
+appVersion: '2.26.9-branch.chore-fastspring.393-7661752'
 description: Speckle Server
 home: 'https://speckle.systems/'
 icon: 'https://app.speckle.systems/images/logo.png'
@@ -12,4 +12,4 @@ sources:
   - 'https://github.com/specklesystems/speckle-server'
 type: application
 # When releasing, 'version' is set by the Chart publishing process
-version: 2.26.9-branch.gv-main.390-114202a
+version: 2.26.9-branch.chore-fastspring.393-7661752
